@@ -54,30 +54,10 @@ I'm a passionate developer based in **Nador, Morocco**, specializing in **dynami
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
-
-
-
-## 🌟 **Experience**
-- **Web Development Intern** | ORBI CALL (July 2024)
-  - Created user-friendly designs and optimized web applications with **responsive design principles**.
-
----
-
-## 💡 **Projects**
-### 🖥️ **Orbi Network Website**
-- Designed and developed a **responsive website** for the Orbi Network.
-- Tools: **HTML, CSS, JavaScript**.
-
----
-
 ## 📬 **Let's Connect**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maysarazarioh2513/)  
-- 📧 Email: [mayssarazarioh51@gmail.com](mailto:mayssarazarioh51@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayssarazarioh51@gmail.com)
 
----
-
-### ⚡ **Fun Fact**
-I enjoy building apps that solve real-world problems while constantly learning and adapting to new challenges. In my free time, I like exploring basketball and editing videos.
 
 ---
 
