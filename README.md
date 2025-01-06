@@ -32,9 +32,9 @@ I'm a passionate developer based in **Nador, Morocco**, specializing in **dynami
 
 ---
 
-## 🎯 **Let's Connect**
-- 📧 Email: [mayssarazarioh51@gmail.com](mailto:mayssarazarioh51@gmail.com)
-- 🌐 LinkedIn: [Maysara Zarioh](https://www.linkedin.com/in/maysarazarioh2513/)
+## 📬 **Let's Connect**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maysarazarioh2513/)  
+📧 **Email**: [mayssarazarioh51@gmail.com](mailto:mayssarazarioh51@gmail.com)
 
 ---
 
