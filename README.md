@@ -42,7 +42,7 @@ I'm a passionate developer based in **Nador, Morocco**, specializing in **dynami
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![J2EE](https://img.shields.io/badge/J2EE-007396?style=for-the-badge&logo=java&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
