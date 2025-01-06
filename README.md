@@ -8,15 +8,14 @@ I'm a passionate developer based in **Nador, Morocco**, specializing in **dynami
 
 ## 📜 **About Me**
 - 💻 **Current Studies**: Specialized Technician in Web & Mobile Application Development (2023–2025) at the **Higher School of Technology (ESTN)**.
-- 🔧 **Core Skills**: 
-  - **Programming**: Java, Python, .NET, C, C++, C#, JavaScript, Dart.
-  - **Web Development**: HTML, CSS, React, PHP, Laravel, Node.js.
-  - **Mobile Development**: Flutter, Android Studio, Java (Android).
-  - **Database**: MySQL, Oracle SQL*Plus, ASP.NET, VB.NET, J2EE, Firebase.
-  - **Tools**: Git, GitHub, Linux, Windows.
 - 🌱 **Learning**: Continuously expanding my skills with modern frameworks and technologies.
 - 🌍 **Languages**: Fluent in Arabic, Proficient in English and French.
-
+- 
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)  
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
 ---
 
 ## 🌟 **Experience**
