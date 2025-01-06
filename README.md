@@ -55,10 +55,10 @@ I'm a passionate developer based in **Nador, Morocco**, specializing in **dynami
 ![Code::Blocks](https://img.shields.io/badge/Code::Blocks-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=2D2D2D)
 
 ---
-## 📬 **Let's Connect**
-- 📧 Email: [mayssarazarioh51@gmail.com](mailto:mayssarazarioh51@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maysarazarioh2513/)  
 
+## 📬 **Let's Connect**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maysarazarioh2513/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayssarazarioh51@gmail.com)
 
 ---
 
