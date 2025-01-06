@@ -11,10 +11,6 @@ I'm a passionate developer based in **Nador, Morocco**, specializing in **dynami
 - 🌱 **Learning**: Continuously expanding my skills with modern frameworks and technologies.
 - 🌍 **Languages**: Fluent in Arabic, Proficient in English and French.
 
----
-
-## 🔧 **Core Skills**
-
 ### **Programming**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,6 +30,7 @@ I'm a passionate developer based in **Nador, Morocco**, specializing in **dynami
 
 ### **Mobile Development**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Java (Android)](https://img.shields.io/badge/Java_(Android)-ED8B00?style=for-the-badge&logo=android&logoColor=white)
 
 ### **Database & Backend**
@@ -58,6 +55,8 @@ I'm a passionate developer based in **Nador, Morocco**, specializing in **dynami
 
 ---
 
+
+
 ## 🌟 **Experience**
 - **Web Development Intern** | ORBI CALL (July 2024)
   - Created user-friendly designs and optimized web applications with **responsive design principles**.
@@ -73,7 +72,7 @@ I'm a passionate developer based in **Nador, Morocco**, specializing in **dynami
 
 ## 📬 **Let's Connect**
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maysarazarioh2513/)  
-📧 **Email**: [mayssarazarioh51@gmail.com](mailto:mayssarazarioh51@gmail.com)
+- 📧 Email: [mayssarazarioh51@gmail.com](mailto:mayssarazarioh51@gmail.com)
 
 ---
 
