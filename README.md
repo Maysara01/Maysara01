@@ -12,7 +12,7 @@ I'm a passionate developer based in **Nador, Morocco**, specializing in **dynami
   - **Programming**: Java, Python, .NET, C, C++, C#, JavaScript, Dart.
   - **Web Development**: HTML, CSS, React, PHP, Laravel, Node.js.
   - **Mobile Development**: Flutter, Android Studio, Java (Android).
-  - **Database**: MySQL, Oracle SQL*Plus, ASP.NET, VB.NET, J2EE.
+  - **Database**: MySQL, Oracle SQL*Plus, ASP.NET, VB.NET, J2EE, Firebase.
   - **Tools**: Git, GitHub, Linux, Windows.
 - 🌱 **Learning**: Continuously expanding my skills with modern frameworks and technologies.
 - 🌍 **Languages**: Fluent in Arabic, Proficient in English and French.
