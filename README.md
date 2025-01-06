@@ -1,6 +1,6 @@
 # Hi there, I'm Maysara Zarioh 👋
 
-### 🌟 Web & Mobile Application Developer | Problem Solver | Tech Enthusiast
+### 🌟 Web & Mobile Application Developer | Tech Enthusiast
 
 I'm a passionate developer based in **Nador, Morocco**, specializing in **dynamic** and **responsive** web and mobile applications. My expertise lies in both **front-end** and **back-end** development, and I enjoy tackling challenges with creative and efficient solutions.
 
