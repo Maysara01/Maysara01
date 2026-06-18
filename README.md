@@ -2,7 +2,7 @@
 
 ### 🌟 Full-Stack Developer | Software Engineering Student
 
-I'm a developer from **Nador, Morocco** building practical full-stack web and mobile applications. I care about writing clean, purposeful code — not just code that runs, but code that actually solves problems.
+I'm a developer from **Nador, Morocco** building practical full-stack web and mobile applications. I care about writing clean, purposeful code || not just code that runs, but code that actually solves problems.
 
 ---
 
@@ -11,7 +11,7 @@ I'm a developer from **Nador, Morocco** building practical full-stack web and mo
 | Degree | Institution | Period |
 |--------|-------------|--------|
 | Engineering Cycle – Computer Science *(Génie Informatique)* | ENIAD Berkane | 2025 – 2028 |
-| DUT – Web & Mobile Application Development | EST Nador (ESTN) | 2023 – 2025 |
+| DUT – Web & Mobile Application Development | EST Nador | 2023 – 2025 |
 
 ---
 
@@ -57,4 +57,4 @@ Built [**ORIB Network**](https://orbi.network/) — a responsive company website
 
 ---
 
-*Always building. Always learning. Open to collaborations and opportunities. 🚀*
+*Always building. Always learning. Open to collaborations and opportunities. *
