@@ -25,19 +25,6 @@ Built [**ORIB Network**](https://orbi.network/) — a responsive company website
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Stack | Status |
-|---------|-------|--------|
-| [**Finance Tracker**](https://github.com/Maysara01/finance-tracker) — AI-powered expense tracker; snap a receipt, Gemini Vision handles the rest | Python · Flask · MySQL · Gemini API | 🟢 Public |
-| **Chalet Suisse** — Full-stack vacation rental platform built during internship | React.js · PHP · REST API · MySQL | [Live ↗](https://chalets-suisses.com/) |
-| **AZ Fitness** — Mobile fitness & quiz app *(PFE / graduation project)* | Flutter · Dart · Firebase | 🔒 Private |
-| **Pizzeria Ordering System** — Full-stack restaurant ordering platform | Laravel · PHP · MySQL · JavaScript | 🔒 Private |
-| [**JsProjects**](https://github.com/Maysara01/JsProjects) — Vanilla JS mini-projects collection | HTML · CSS · JavaScript | 🟢 Public |
-| **ORIB Network** — Responsive company website built during internship | HTML · CSS · JavaScript · PHP | [Live ↗](https://orbi.network/) |
-
----
-
 ## 🛠️ Tech Stack
 
 ### Programming
@@ -47,6 +34,7 @@ Built [**ORIB Network**](https://orbi.network/) — a responsive company website
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=2D2D2D)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=2D2D2D)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=2D2D2D)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2D2D2D)
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=2D2D2D)
@@ -55,6 +43,8 @@ Built [**ORIB Network**](https://orbi.network/) — a responsive company website
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=2D2D2D)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=2D2D2D)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=2D2D2D)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=2D2D2D)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=2D2D2D)
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=2D2D2D)
@@ -62,8 +52,12 @@ Built [**ORIB Network**](https://orbi.network/) — a responsive company website
 
 ### Database & Backend
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2D2D2D)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2D2D2D)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=2D2D2D)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=2D2D2D)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=2D2D2D)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=2D2D2D)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=2D2D2D)
 ![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=2D2D2D)
 
 ### Tools
@@ -73,6 +67,7 @@ Built [**ORIB Network**](https://orbi.network/) — a responsive company website
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=2D2D2D)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=2D2D2D)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=2D2D2D)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=2D2D2D)
 
 ---
 
