@@ -10,7 +10,7 @@ I'm a developer from **Nador, Morocco** building practical full-stack web and mo
 
 | Degree | Institution | Period |
 |--------|-------------|--------|
-| Engineering Cycle – Computer Science *(Génie Informatique)* | ENIAD Berkane | 2025 – 2028 |
+| Engineering Cycle – Software Engineer *(Génie Informatique)* | ENIAD Berkane | 2025 – 2028 |
 | DUT – Web & Mobile Application Development | EST Nador | 2023 – 2025 |
 
 ---
